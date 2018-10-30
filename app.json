@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "pages/home/home"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小程序ajax请求封装成Promise",
+    "navigationBarTextStyle":"black"
+  }
+}

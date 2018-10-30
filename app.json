@@ -5,7 +5,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "小程序ajax请求封装成Promise",
+    "navigationBarTitleText": "小程序结构搭建&优化",
     "navigationBarTextStyle":"black"
   }
 }

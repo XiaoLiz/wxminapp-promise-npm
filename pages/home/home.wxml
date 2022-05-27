@@ -1,4 +1,0 @@
-<!--home.wxml-->
-<view class="home">
-    <text>Code获取成功: {{code}}</text>
-</view>

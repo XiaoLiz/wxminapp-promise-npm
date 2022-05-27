@@ -1,0 +1,22 @@
+{
+	"name": "wechat-minapp-promise",
+	"version": "1.0.0",
+	"description": "微信小程序api promise封装",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/XiaoLiz/Wechat-minapp-Promise.git"
+	},
+	"keywords": [
+		"promise"
+	],
+	"author": "limanman",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/XiaoLiz/Wechat-minapp-Promise/issues"
+	},
+	"homepage": "https://github.com/XiaoLiz/Wechat-minapp-Promise#readme"
+}

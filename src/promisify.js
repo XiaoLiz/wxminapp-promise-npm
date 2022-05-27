@@ -1,12 +1,7 @@
 /* 
-  Date: 2018-10-30
-  author: 易风
-    
-
-  使用方法比如：
- * const login = utils.promisify(wx.login)
- * login().then(res => console.log(res.code))
- */
+* Date: 2022-05-27
+* author: 李慢慢
+*/
 
 export default function promisify(fn) {
 

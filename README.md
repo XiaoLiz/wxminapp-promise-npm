@@ -21,9 +21,8 @@ const promisify from 'index.js';
 const wxRequest = promisify(wx.request)
 
 wxRequest({
-	url: options.url,
-	data: options.data,
-	header,
+	urll,
+	data,
 	method
 })
 .then(() => {})
